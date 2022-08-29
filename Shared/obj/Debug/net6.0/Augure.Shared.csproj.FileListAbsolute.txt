@@ -1,0 +1,5 @@
+D:\Augure\Augure\Shared\obj\Debug\net6.0\Augure.Shared.csproj.AssemblyReference.cache
+D:\Augure\Augure\Shared\obj\Debug\net6.0\Augure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Augure\Augure\Shared\obj\Debug\net6.0\Augure.Shared.AssemblyInfoInputs.cache
+D:\Augure\Augure\Shared\obj\Debug\net6.0\Augure.Shared.AssemblyInfo.cs
+D:\Augure\Augure\Shared\obj\Debug\net6.0\Augure.Shared.csproj.CoreCompileInputs.cache
